@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.solovyev.android:checkout:0.7.5@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.solovyev.android/checkout/0.7.5/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.solovyev.android/checkout/0.7.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.solovyev.android/checkout/0.7.5/6552e405c2d2f01812be2287fa1af7bb83bc1632/checkout-0.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

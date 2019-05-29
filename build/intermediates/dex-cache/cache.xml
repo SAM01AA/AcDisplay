@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-support-v4-24.0.0_fb57c391fe57b840e370d234ba8a63e557381078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/support-annotations-24.0.0_759643fe743e7dd7486658228ee2cb045396c5f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11a77d468094755b00d2a6725287982994703c1f">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.github.afollestad.material-dialogs-core-0.8.6.0_ce63cd7267ff6c10366b19480ad1b1db3aa3b96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/me.grantland/autofittextview/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/me.grantland-autofittextview-0.2.1_159ad195550f6686b0501df0625235c8b92a10db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/org.solovyev.android/checkout/0.7.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aad4ac2318941bf6c1f97f5b4b2fe317d002330b">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/org.solovyev.android-checkout-0.7.5_3d79175f4bf426b42903deb0517dfa61bc2cb785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-support-vector-drawable-24.0.0_38335fc4805862414daa1620b24674f7bce0e443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.github.paolorotolo-appintro-4.0.0_de4243b9c94df69f25f68b44151ced182ec184a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-appcompat-v7-24.0.0_2a169824f0fc844e403c908c2427baea883bff80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.melnykov-floatingactionbutton-1.3.0_9fc8c2da33370265275eb0b3739cbd3e48e7e2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-recyclerview-v7-24.0.0_6320aab5034d89102f615bfa9233d30df00f6a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-animated-vector-drawable-24.0.0_392b68c197d37d301fd84365c754e2ca37a2b7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/internal_impl-23.4.0_2df85fa8b68dbf5d8c966ce2f41189773ebd22a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/internal_impl-24.0.0_a5f6900a9a684d284afcea1cd987dbb4f57780a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/src/main/libs/RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/RootTools_e8672784b613abef85707fe3eaf88e2fa2e25c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/timber-3.1.0_f396ae44c8a56ab826dfa0c61483aa01bcdaed26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-palette-v7-23.4.0_cd94cd697db9aff83320435e0986bf4f6587c410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab3193b438e37f7b0a634cc2dfebbf92892ea90c">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/me.zhanghai.android.materialprogressbar-library-1.1.6_179e3bf1977c685290e9c8e9936a3bce02513dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="31b6bf3a0ffdc3d50088e7d68c31de1b98b50821">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.github.afollestad.material-dialogs-commons-0.8.6.0_4a61bc3185f6582f178d469c525715560e38790c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.larswerkman-HoloColorPicker-1.4_fd7e5a9f9b8a5720603e16ceeed1a9116facb278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-design-23.4.0_2286da633a0b2c7e5da2f72d88fe5ad638455e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Videos/AcDisplay/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/root/Videos/AcDisplay/app/build/intermediates/pre-dexed/defaultFlavor/debug/com.android.support-support-v13-23.4.0_705f7d5c3aebf490bc20aff470522bab680d1208.jar" />
+    </item>
+
+</items>
